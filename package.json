@@ -1,0 +1,13 @@
+{
+  "name": "aulon-world-archive",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Aulon World Archive, prepared for GitHub Pages.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}

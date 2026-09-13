@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/lore/adventurer-guild-ranking-system",
+    "title": "Adventurer Guild Ranking System — Aulon World Archive",
+    "view": "guild",
+    "file": "articles/adventurer-guild-ranking-system.html"
+  },
+  {
+    "path": "/lore/twelve-adamantites-of-history",
+    "title": "The Twelve Adamantites of History — Aulon World Archive",
+    "view": "adamantites",
+    "file": "articles/twelve-adamantites-of-history.html"
+  },
+  {
+    "path": "/lore/lancers-emissaries-blighted-lancers",
+    "title": "Lancers, Emissaries, and Blighted Lancers — Aulon World Archive",
+    "view": "spherebound",
+    "file": "articles/lancers-emissaries-blighted-lancers.html"
+  },
+  {
+    "path": "/lore/rule-and-the-lance-phenomenon",
+    "title": "RULE and the Lance Phenomenon — Aulon World Archive",
+    "view": "rule",
+    "file": "articles/rule-and-the-lance-phenomenon.html"
+  },
+  {
+    "path": "/lore/twelve-cosmic-laws-of-aulon",
+    "title": "The Twelve Cosmic Laws of Aulon — Aulon World Archive",
+    "view": "laws",
+    "file": "articles/twelve-cosmic-laws-of-aulon.html"
+  },
+  {
+    "path": "/lore/artifact-grading-system-of-aulon",
+    "title": "The Artifact Grading System of Aulon — Aulon World Archive",
+    "view": "artifacts",
+    "file": "articles/artifact-grading-system-of-aulon.html"
+  },
+  {
+    "path": "/lore/races-of-aulon",
+    "title": "The Races of Aulon — Aulon World Archive",
+    "view": "races",
+    "file": "articles/races-of-aulon.html"
+  },
+  {
+    "path": "/lore/ekhara-first-tongue-of-aulon",
+    "title": "Ekhara: The First Tongue of Aulon — Aulon World Archive",
+    "view": "ekhara",
+    "file": "articles/ekhara-first-tongue-of-aulon.html"
+  },
+  {
+    "path": "/lore/high-forbidden-words-and-sigils",
+    "title": "The High Words of Ena and the Sigils of the Marked Ones — Aulon World Archive",
+    "view": "marked",
+    "file": "articles/high-forbidden-words-and-sigils.html"
+  },
+  {
+    "path": "/lore/arcane-system-of-aulon",
+    "title": "The Arcane System of Aulon — Aulon World Archive",
+    "view": "arcane",
+    "file": "articles/arcane-system-of-aulon.html"
+  },
+  {
+    "path": "/lore/named-spells-of-arcane-system",
+    "title": "Named Spells of the Arcane System — Aulon World Archive",
+    "view": "spells",
+    "file": "articles/named-spells-of-arcane-system.html"
+  },
+  {
+    "path": "/lore/racial-signature-arts-of-aulon",
+    "title": "Racial Signature Arts of Aulon — Aulon World Archive",
+    "view": "racial-arts",
+    "file": "articles/racial-signature-arts-of-aulon.html"
+  },
+  {
+    "path": "/lore/legendary-techniques-of-adamantites-and-spherebound",
+    "title": "Legendary Techniques of Adamantites and Spherebound — Aulon World Archive",
+    "view": "legendary-techniques",
+    "file": "articles/legendary-techniques-of-adamantites-and-spherebound.html"
+  },
+  {
+    "path": "/lore/resonance-nullity-of-the-marked-ones",
+    "title": "Resonance Nullity — Aulon World Archive",
+    "view": "resonance-nullity",
+    "file": "articles/resonance-nullity-of-the-marked-ones.html"
+  },
+  {
+    "path": "/lore/skaurun-bequeathed-weapons-of-the-spheres",
+    "title": "Skau’Run: The Bequeathed Weapons of the Spheres — Aulon World Archive",
+    "view": "skaurun",
+    "file": "articles/skaurun-bequeathed-weapons-of-the-spheres.html"
+  }
+]
